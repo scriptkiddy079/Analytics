@@ -18,7 +18,7 @@ pyarrow==2.0.0
 pygeos==0.8
 PyMySQL==0.10.1
 pyproj==3.0.0.post1
-pyspark==3.0.1
+pyspark==3.2.2
 python-dateutil==2.8.1
 pytz==2020.4
 Rtree==0.9.4
